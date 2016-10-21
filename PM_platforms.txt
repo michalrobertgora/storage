@@ -1,0 +1,36 @@
+pricing - 
+
+jira - za skomplikowany
+
+
+trello - za prosty (board, karteczki)
+
+
+middleground - listowe
+
+asana
+ma ma³o poziomów
+np przygotowanie scope'a szkolenia i potem rozyslanie maili musialoby byæ albo osobnymi projektami, albo dawac malutkie kroki i brak wyroznienia (subtaski latwo pominac)
+tracking date jest, assign jest
+
+flow
+https://app.getflow.com/organizations/351645/teams/302449/catchup
+pm-soft
+rootpass
+tracikng jest, assign jest, daty sa
+
+pmsoft.teamwork.com
+login mail
+haslo jak do roota
+tracking jest, assign jest, gennt jest
+
+
+
+bardzo algorytmiczny:
+
+bardzo procesowy - do on-boardingu? 
+robisz template i uruchamiasz jego checking krok po kroku. dobre do czynnosci rozlozonych na bardzo male kroki.
+nie jestem pewien, czy to dla nas - jakby co miesiac ktos inny nowy mial cos robic, to OK.
+https://app.process.st/dashboard/folder/home
+michal.robert.gora@gmail.com
+rootpass
