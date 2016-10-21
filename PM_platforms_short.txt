@@ -1,16 +1,14 @@
 pricing - 
 
 jira - za skomplikowany
-
-
 trello - za prosty (board, karteczki)
 
 
 middleground - listowe
 
 asana
-ma ma³o poziomów
-np przygotowanie scope'a szkolenia i potem rozyslanie maili musialoby byæ albo osobnymi projektami, albo dawac malutkie kroki i brak wyroznienia (subtaski latwo pominac)
+ma maï¿½o poziomï¿½w
+np przygotowanie scope'a szkolenia i potem rozyslanie maili musialoby byï¿½ albo osobnymi projektami, albo dawac malutkie kroki i brak wyroznienia (subtaski latwo pominac)
 tracking date jest, assign jest
 
 flow
